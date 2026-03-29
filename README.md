@@ -27,7 +27,7 @@ Project Workflow
 Dashboard
 An interactive Power BI dashboard provides a visual summary of key metrics and trends
 Enables easy decision-making through filters and drill-down capabilities
-📈 Results & Insights
+
 Identified key trends and patterns in the dataset
 Improved data quality through cleaning and preprocessing
 Generated actionable insights using SQL and visualization tools
