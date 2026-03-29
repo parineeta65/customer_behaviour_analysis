@@ -23,12 +23,6 @@ Project Workflow
 5. Dashboard Development
 6. Reporting
 7. Presentation
-Designed a professional presentation using Gamma
-Highlighted:
-Problem statement
-Approach
-Insights
-Visualizations
 
 Dashboard
 An interactive Power BI dashboard provides a visual summary of key metrics and trends
