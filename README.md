@@ -1,8 +1,8 @@
 # customer_behaviour_analysis
 A Data analytics project showcasing Customer behaviour analysis using Python, SQL, and Power BI.
 📊 Data Analytics Project
-📌 Overview
 
+📌 Overview
 This project demonstrates a complete data analytics workflow — from data loading and cleaning to visualization and reporting. It highlights practical skills in Python, SQL, and Power BI to extract insights and present them effectively.
 
 📂 Dataset
@@ -15,6 +15,7 @@ SQL (PostgreSQL / SQL Server) – Querying and data manipulation
 Power BI – Interactive dashboard creation
 Gamma – Presentation (PPT) creation
 Jupyter Notebook – Development environment
+
 🔄 Project Workflow
 1. Data Loading
 Imported dataset using Python (Pandas)
@@ -54,6 +55,7 @@ Problem statement
 Approach
 Insights
 Visualizations
+
 📊 Dashboard
 An interactive Power BI dashboard provides a visual summary of key metrics and trends
 Enables easy decision-making through filters and drill-down capabilities
